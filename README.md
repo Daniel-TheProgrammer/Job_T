@@ -5,5 +5,3 @@
 Python3
 Django
 Bootstrap
-
-The project is live at: http://jobeazy.herokuapp.com/
