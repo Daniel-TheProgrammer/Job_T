@@ -3,6 +3,6 @@
 
 ## language and libraries used
 
-Python3
-Django
-Bootstrap
+# Python3
+# Django
+# Bootstrap
