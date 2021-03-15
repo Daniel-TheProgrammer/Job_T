@@ -1,4 +1,4 @@
-## A job listing web app built with the indreed api
+## A job listing web app built with the indreed pi
 
 
 ## language and libraries used
